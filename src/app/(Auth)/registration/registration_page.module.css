@@ -1,14 +1,8 @@
-.login_page{
+.reg_page{
     display: flex;
     justify-content: center;
     flex-direction: column;
     max-width: 300px;
     margin: 100px auto;
     gap: 20px;
-}
-.login_page_links{
-    display: flex;
-    justify-content: space-between;
-    color: blue;
-    font-size: .9em;
 }
